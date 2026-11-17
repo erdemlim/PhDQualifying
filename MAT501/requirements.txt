@@ -1,0 +1,6 @@
+reportlab
+matplotlib
+sympy
+pypdf
+pypdfium2
+Pillow

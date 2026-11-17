@@ -1,0 +1,54 @@
+{
+  "updated": "2026-11-17",
+  "pdf_count": 8,
+  "pdfs": [
+    {
+      "path": "output/pdf/MAT501_Chapter1_Ozet_ve_Cozumler.pdf",
+      "bytes": 958041,
+      "sha256": "0a2452ac2db02602ea64a2c18a5770b4ea51b9580a5fdd13e175061a50607db0",
+      "git_blob_sha1": "f7a337aec97de55ac4e90194ed34131bc0cee115"
+    },
+    {
+      "path": "output/pdf/MAT501_Chapter2_Anlatim_ve_Cozumler.pdf",
+      "bytes": 911174,
+      "sha256": "62fbf88973790ffcec49b9032138e0d796e8f1d04641184d092d39b7c6bddbeb",
+      "git_blob_sha1": "0e130e25a91781da74c6ca5701127820ebdd6eea"
+    },
+    {
+      "path": "output/pdf/MAT501_Chapter2_Karisik_Alistirmalar.pdf",
+      "bytes": 163370,
+      "sha256": "72738d636759a1d104a57d3fdd5857b8c65eb33ea5f2ab0bd09feef9c4ebcca1",
+      "git_blob_sha1": "d28c25bbb136dd0f7acabc140e707ac2ca128a55"
+    },
+    {
+      "path": "output/pdf/MAT501_Chapter2_Alistirmalar_Cevap_Anahtari.pdf",
+      "bytes": 503927,
+      "sha256": "a4530e952b73ee7d2482017dccaf15548fa85f82739ce7c93f0b1ee740f583c6",
+      "git_blob_sha1": "389b194cd2c5ebf3af4a256c635674beefbe22f5"
+    },
+    {
+      "path": "output/pdf/MAT501_Chapter4_Anlatim_ve_Cozumler.pdf",
+      "bytes": 613407,
+      "sha256": "2bc29dc63ccf6e8d7a9d523e25bfe6b47c62ab7c2a80351c81b7988a5e37bd38",
+      "git_blob_sha1": "8d38bae50748c0a27143d6350605e0be67e311e6"
+    },
+    {
+      "path": "output/pdf/MAT501_Chapter4_Karisik_Alistirmalar.pdf",
+      "bytes": 142959,
+      "sha256": "455caaa03b358abacc960300b916a3eccb33382698be8ac4c0a880dbf77a52cf",
+      "git_blob_sha1": "5ed9d66ae2246f54efbd170e3d47924f31bf142b"
+    },
+    {
+      "path": "output/pdf/MAT501_Chapter4_Alistirmalar_Cevap_Anahtari.pdf",
+      "bytes": 517335,
+      "sha256": "d070b3011b6254a48655c35e6a843f8dbd0e63c07124498eff6b230b8f126041",
+      "git_blob_sha1": "0e8aa2cc28bf884cd702286f6e89368c9d646df6"
+    },
+    {
+      "path": "output/pdf/MAT501_Karisik_Genel_Tekrar_01.pdf",
+      "bytes": 156367,
+      "sha256": "4e15de28530befb00962a1b78a5acbf0b38ea700d0c191a071826b782accce1d",
+      "git_blob_sha1": "3a6af9c2c3787290c30aef9d496e73f0889468d2"
+    }
+  ]
+}
